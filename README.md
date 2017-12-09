@@ -16,3 +16,5 @@ Branch and Bound.
 Genetic & Swarm Problem.
 
 Genetic ALgorithm.
+
+N-Queen Problem.
