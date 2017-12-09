@@ -3,7 +3,7 @@ All about artificial intelligence algorithm there implementation , code and prob
 
 # Topics
 
-Constrait Satisfaction Problem.
+Constraint Satisfaction Problem.
 
 Game Tree.
 
