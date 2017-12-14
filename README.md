@@ -18,3 +18,15 @@ Genetic & Swarm Problem.
 Genetic ALgorithm.
 
 N-Queen Problem.
+
+Uninformed Search.
+
+Informed Search.
+
+A* Search.
+
+Heuristic Search.
+
+PSO.
+
+SAT.
